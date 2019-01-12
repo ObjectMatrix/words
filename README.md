@@ -7,7 +7,7 @@ it displays the backend toolchain commands being run)
 
 # How to compile this program  
 
-## withh gcc  
+## with gcc  
 gcc -xc++ -lstdc++ -shared-libgcc words.c
 
 ## with g++
